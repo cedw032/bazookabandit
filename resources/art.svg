@@ -200,7 +200,7 @@
        width="1873.7004"
        id="rect4939"
        style="opacity:1;fill:#afe9af;fill-opacity:1;stroke:#000000;stroke-width:5.99999952;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-filename="/home/mvandest/Desktop/wip.png"
+       inkscape:export-filename="/home/mvandest/public_html/bazookabandit/assets/greenblock.png"
        inkscape:export-xdpi="45.035591"
        inkscape:export-ydpi="45.035591" />
     <g
@@ -1275,7 +1275,7 @@
     <g
        inkscape:export-ydpi="45.035591"
        inkscape:export-xdpi="45.035591"
-       inkscape:export-filename="/home/mvandest/Desktop/wip.png"
+       inkscape:export-filename="/home/mvandest/public_html/bazookabandit/resources/sprite-atlas/playerhead.png"
        transform="translate(-81.361535,-430.91526)"
        id="g4548">
       <circle
@@ -1358,7 +1358,7 @@
     <path
        inkscape:export-ydpi="45.035591"
        inkscape:export-xdpi="45.035591"
-       inkscape:export-filename="/home/mvandest/Desktop/wip.png"
+       inkscape:export-filename="/home/mvandest/public_html/bazookabandit/resources/sprite-atlas/body_idle.png"
        sodipodi:nodetypes="ccccc"
        inkscape:connector-curvature="0"
        id="path4574"
@@ -1370,13 +1370,13 @@
        id="path4576"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccscccc"
-       inkscape:export-filename="/home/mvandest/Desktop/wip.png"
+       inkscape:export-filename="/home/mvandest/public_html/bazookabandit/resources/sprite-atlas/body_step2.png"
        inkscape:export-xdpi="45.035591"
        inkscape:export-ydpi="45.035591" />
     <path
        inkscape:export-ydpi="45.035591"
        inkscape:export-xdpi="45.035591"
-       inkscape:export-filename="/home/mvandest/Desktop/wip.png"
+       inkscape:export-filename="/home/mvandest/public_html/bazookabandit/resources/sprite-atlas/body_step1.png"
        sodipodi:nodetypes="ccscccc"
        inkscape:connector-curvature="0"
        id="path4578"

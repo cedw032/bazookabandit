@@ -33,14 +33,21 @@ class Preloader extends Phaser.State {
     // add all in-game resources here
     // resources are referenced by 'key'
 
-    // title screen
-    this.game.load.image('title','assets/title.png');
+    // load the images - add more as required - name of image = key
+    this.images = [ 'title', 'greenblock' ];
+
+    var folder = 'assets/';
+    var ext = '.png';
+
+    for (var i = 0; i < this.images.length; i++) {
+        this.load.image(this.images[i], folder + this.images[i] + ext);
+    }
 
     // Create atlases with this tool:
     // https://www.leshylabs.com/apps/sstool/
     // Settings:
     //  Sprite map: JSON-TP-ARRAY format.
-    //this.game.load.atlas('atlas', 'atlas.png', 'assets/atlas.json');
+    this.game.load.atlas('sprite-atlas', folder + 'spritesheet.png', folder + 'sprites.json');
 
     //this.game.load.spritesheet('target', 'assets/target.png',128,128);
 
