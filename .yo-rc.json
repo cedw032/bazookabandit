@@ -1,0 +1,7 @@
+{
+  "generator-phaser": {
+    "projectName": "bazookabandit",
+    "esVersion": 6,
+    "gameFolder": "game"
+  }
+}

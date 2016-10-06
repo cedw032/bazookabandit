@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1366"
+   height="768"
+   viewBox="0 0 1366 768.00001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="title.svg"
+   inkscape:export-filename="/home/mvandest/public_html/bazookabandit/assets/title.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4186">
+      <stop
+         style="stop-color:#165016;stop-opacity:1;"
+         offset="0"
+         id="stop4188" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop4190" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4186"
+       id="linearGradient4194"
+       x1="115"
+       y1="517.7193"
+       x2="1298.5714"
+       y2="957.7193"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="724.56988"
+     inkscape:cy="339.1394"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     borderlayer="true"
+     showguides="false"
+     inkscape:window-width="2815"
+     inkscape:window-height="1596"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-284.36216)">
+    <rect
+       style="opacity:1;fill:url(#linearGradient4194);fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136"
+       width="1391.4286"
+       height="803.57141"
+       x="-12.857142"
+       y="266.64789" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="547.79688"
+       y="497.36215"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="547.79688"
+         y="497.36215"
+         style="fill:#ffffff" /><tspan
+         sodipodi:role="line"
+         x="547.79688"
+         y="574.38068"
+         id="tspan4144"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:75px;font-family:'FORCED SQUARE';-inkscape-font-specification:'FORCED SQUARE Medium';fill:#ffffff">of the</tspan><tspan
+         sodipodi:role="line"
+         x="547.79688"
+         y="668.13068"
+         id="tspan4146"
+         style="fill:#ffffff" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:153.47114563px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#da2525;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="356.95441"
+       y="510.13052"
+       id="text4150"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.99686848,-0.07907737,0.07907737,0.99686848,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan4152"
+         x="356.95441"
+         y="510.13052"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'FORCED SQUARE';-inkscape-font-specification:'FORCED SQUARE Medium';fill:#da2525;fill-opacity:1">Revenge</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:189.92707825px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="640.84021"
+       y="733.07642"
+       id="text4154"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4156"
+         x="640.84021"
+         y="733.07642"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'FORCED SQUARE';-inkscape-font-specification:'FORCED SQUARE Medium'">Bazooka</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="947.79681"
+       y="887.36218"
+       id="text4158"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4160"
+         x="947.79681"
+         y="887.36218"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:189.92707825px;font-family:'FORCED SQUARE';-inkscape-font-specification:'FORCED SQUARE Medium'">Bandit</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4178"
+       y="972.09497"
+       x="685.83356"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.43409157px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#ffffff"
+         y="972.09497"
+         x="685.83356"
+         id="tspan4180"
+         sodipodi:role="line" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:53.00207138px;font-family:'FORCED SQUARE';-inkscape-font-specification:'FORCED SQUARE Medium';fill:#ffffff"
+         id="tspan4182"
+         y="1026.5236"
+         x="685.83356"
+         sodipodi:role="line">Click to Start</tspan><tspan
+         style="fill:#ffffff"
+         id="tspan4184"
+         y="1092.7761"
+         x="685.83356"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>

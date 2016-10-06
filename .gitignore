@@ -10,6 +10,9 @@
 *.sublime-project
 *.sublime-workspace
 
+# Visual Studio Code
+.vscode
+
 # Windows
 Thumbs.db
 
@@ -33,3 +36,4 @@ Icon?
 
 # Build files
 /build/*
+
