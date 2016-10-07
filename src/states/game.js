@@ -89,6 +89,7 @@ class Game extends Phaser.State {
 
     // To listen to buttons from a specific pad listen directly on that pad game.input.gamepad.padX, where X = pad 1-4
     this.pad1 = this.game.input.gamepad.pad1;
+    this.gamePadUsed = false;
   }
 
   update() {
@@ -102,6 +103,11 @@ class Game extends Phaser.State {
     this.game.physics.arcade.collide(this.player, this.blocks);
     
     this.player.body.velocity.x = 0;
+
+    // only worry about gamepad if gamepad connected and user actually presses a button
+    if(!this.gamePadUsed && this.pad1.connected && (this.pad1.isDown(Phaser.Gamepad.XBOX360_DPAD_LEFT) || this.pad1.isDown(Phaser.Gamepad.XBOX360_DPAD_RIGHT))) {
+        this.gamePadUsed = true;
+    }
 
     // moving
     if (this.cursors.left.isDown || this.pad1.isDown(Phaser.Gamepad.XBOX360_DPAD_LEFT)) {
@@ -148,9 +154,30 @@ class Game extends Phaser.State {
     this.bazooka.x = this.player.x;
     this.bazooka.y = this.player.y - 22;
 
-    // point 'em at miece - needs a rotation lock
-    this.head.rotation = this.game.physics.arcade.angleToPointer(this.head);
-    this.bazooka.rotation = this.game.physics.arcade.angleToPointer(this.bazooka);
+    // if we're not using that gamepad, use mouse to point bazooka
+    // problem is - if we change direction, bazooka points at mouse on wrong side of player
+    if(!this.gamePadUsed) {
+        // point 'em at miece - needs a rotation lock
+        this.head.rotation = this.game.physics.arcade.angleToPointer(this.head);
+        this.bazooka.rotation = this.game.physics.arcade.angleToPointer(this.bazooka);
+    }
+
+    // these gamepad controls to rotate the bazooka are a bit wonky, but it kinda works.
+    if(this.gamePadUsed) {
+        var rightStickX = this.pad1.axis(Phaser.Gamepad.XBOX360_STICK_RIGHT_X);
+        var rightStickY = this.pad1.axis(Phaser.Gamepad.XBOX360_STICK_RIGHT_Y);
+
+        if(rightStickY) {
+            if( rightStickY > 0.0) {
+                this.head.rotation += 0.1;
+                this.bazooka.rotation += 0.1;
+            }
+            if(rightStickY < 0.0) {
+                this.head.rotation -= 0.1;
+                this.bazooka.rotation -= 0.1;
+            }
+        }
+    }
   }
 
   render() {

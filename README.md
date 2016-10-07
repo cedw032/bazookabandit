@@ -9,6 +9,19 @@ Game concept:
 Uhh...a platformer where you shoot stuff with a bazooka?
 
 
+**Keyboard Controls:**
+
+Arrowkeys to move and jump
+
+Mouse to point bazooka
+
+**Gamepad controls:**
+
+D-Pad to move and jump
+
+Right thumbstick (up and down) to point bazooka 
+
+
 Language:
 ---
 Javascript/HTML5 using Phaser.io framework.
